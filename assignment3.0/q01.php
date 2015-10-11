@@ -37,7 +37,7 @@ print '<table>';
 
     // all done
     print '</table>';
-
+    print count($info2) . " total records";
 
 include "footer.php";
 ?>
