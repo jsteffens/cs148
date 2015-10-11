@@ -13,6 +13,7 @@ and open the template in the editor.
         <ul>
             <li><a href="assignment1.0/index.php" >Assignment1.0</a></li>
             <li><a href="assignment2.0/select.php" >Assignment2.0</a></li>
+            <li><a href="assignment3.0/join.php" >Assignment3.0</a></li>
             <li><a href="tryme.php" >Try Me</a></li>
         </ul>
     </body>
